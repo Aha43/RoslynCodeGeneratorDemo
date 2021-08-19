@@ -1,6 +1,6 @@
 # Roslyn Code Generator Demo
 
-This repo contains example code for getting started with writing Roslyn compiler code generators.
+This repo contains example code for getting started with writing Roslyn compiler platform code generators.
 
 Source code is not mine but found in two excellent blog posts: 
 
